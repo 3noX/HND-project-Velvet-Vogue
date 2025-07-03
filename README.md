@@ -99,4 +99,4 @@ Start both Apache and MySQL services
 If you have any questions, feedback, or need support, feel free to reach out:
 
 - **GitHub:** [https://github.com/3noX](https://github.com/3noX)  
-- **Email:** your-chathuradenuwan9@gmail.com  
+- **Email:** chathuradenuwan9@gmail.com  
