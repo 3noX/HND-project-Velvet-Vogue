@@ -65,31 +65,38 @@ Start both Apache and MySQL services
 - PHP 7.x or 8.x
 - MySQL
 
-  ### 📸 Preview Screenshots
+---
+  
+## 📸 Preview Screenshots
 
-## Login Page
+### Login Page
 
 ![Screenshot (22)](https://github.com/user-attachments/assets/f06feb79-6213-412f-a872-bc4a6815a59d)
 
 
-## Home Page
+### Home Page
 
 ![Screenshot (18)](https://github.com/user-attachments/assets/12147abc-76ec-4791-b6d3-5427463f0c48)
 
 
-## Product Page
+### Product Page
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/4ece5e85-886a-4551-bcfe-0999bff8c0a9)
 
 
-## Cart & Checkout
+### Cart & Checkout
 
 ![Screenshot (20)](https://github.com/user-attachments/assets/bef3ad31-41d2-40dd-81bf-127742528cd0)
 
 
-## Admin Dashboard
+### Admin Dashboard
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/111a0bc6-90f8-472d-bc2d-a4fa7d4b5353)
 
+---
+## 📬 Contact
 
+If you have any questions, feedback, or need support, feel free to reach out:
 
+- **GitHub:** [https://github.com/3noX](https://github.com/3noX)  
+- **Email:** your-chathuradenuwan9@gmail.com  
